@@ -1,0 +1,4 @@
+p.centro {
+	text-align: center; /*Aqui centrei todos os paragrafos que utilizão este nome de class*/
+	color: red; /*Aqui mudei a cor de todos os paragrafos que utilizão este nome de class*/
+	}

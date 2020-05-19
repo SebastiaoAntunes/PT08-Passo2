@@ -1,0 +1,8 @@
+p.centro {
+	text-align: center; /*Aqui centrei todos os paragrafos que utilizão este nome de class*/
+	color: red; /*Aqui mudei a cor de todos os paragrafos que utilizão este nome de class*/
+	}
+   
+p.largo {
+	font-size: 300%; /*Aqui mudei tamanho da fonte para todos os paragrafos que utilizão este nome de class*/
+}
